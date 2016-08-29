@@ -1,6 +1,6 @@
 {
   "name": "async-patch-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "CatalystDP",
     "email": "cld18874@gmail.com"
@@ -22,7 +22,7 @@
   "licenses": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CatalystDP/webpack-async-module-loader-patch.git"
+    "url": "git+https://github.com/CatalystDP/async-patch-loader.git"
   },
-  "homepage": "https://github.com/CatalystDP/webpack-async-module-loader-patch"
+  "homepage": "https://github.com/CatalystDP/async-patch-loader"
 }
