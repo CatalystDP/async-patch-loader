@@ -1,0 +1,1 @@
+### 使用方式同async-module-loader，只增加IE7/8支持
